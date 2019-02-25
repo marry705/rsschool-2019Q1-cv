@@ -1,33 +1,40 @@
 Mary Chilo
 ==========================
 
+![Mary Chilo](/DSC06714.jpg)
+
 1. ABOUT
 
 I am a beginner programmer seeking a full-time position where I can apply my skills and knowledge for continuous improvement.
 
 2. PERSONAL INFORMATION
 
-Email		marry705chilo@gmail.com
-***********************************
-Phone number	+375(25)936-5-999
-
-				(8017)224-97-80
-***********************************
-Date of birth	15th March 1995
-***********************************
-Address			Belarus, Minsk
-***********************************
+**Email** <marry705chilo@gmail.com>
+****
+**Skype** Marry Shilo
+****
+**Phone number** +375(25)936-5-999
+****
+**Date of birth** 15th March 1995
+****
+**Address** Belarus, Minsk
+****
 
 3. EDUCATION
 
 September 2012 – June 2017 Belarusian State Economic University, Minsk
-***********************************************************************
+
 Department of Management
-***********************************************************************
+
 Major: Economic Informatics
-***********************************************************************
 
 4. WORK EXPERIENCE
+
+**Internship**	Bank Moscow-Minsk
+>>>2014-2016
+****
+**Full time job**	OOO " ИнтеллектСервис "
+>>>2017-p.t.
 
 5. PROFESSIONAL SKILLS
 
