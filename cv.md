@@ -39,16 +39,9 @@ Major: Economic Informatics
 
 4. [WORK EXPERIENCE](#workexp)
 
-|**Internship**|Bank Moscow-Minsk|
-| |2014-2016|
-|**Full time job**|OOO " ИнтеллектСервис "|
-| |2017-p.t.|
-
-| Таблицы       | Это                | Круто |
-| ------------- |:------------------:| -----:|
-| столбец 3     | выровнен вправо    | $1600 |
-| столбец 2     | выровнен по центру |   $12 |
-| зебра-строки  | прикольные         |    $1 |
+| --------------- |:---------------------:| -------:|
+|**Internship**   |Bank Moscow-Minsk      |2014-2016|
+|**Full time job**|OOO " ИнтеллектСервис "|2017-p.t.|
 ----
 
 5. [PROFESSIONAL SKILLS](#profskills)
