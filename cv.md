@@ -1,5 +1,5 @@
 Mary Chilo
-==========================
+===
 
 ![Mary Chilo](/1.jpg)
 
@@ -20,19 +20,15 @@ I am a beginner programmer seeking a full-time position where I can apply my ski
 **Email** <marry705chilo@gmail.com>
 
 ---
-
 **Skype** Marry Shilo
 
 ---
-
 **Phone number** +375(25)936-5-999
 
 ---
-
 **Date of birth** 15th March 1995
 
 ---
-
 **Address** Belarus, Minsk
 
 3. EDUCATION AND QUALIFICATION <a name="education"></a>
@@ -47,7 +43,6 @@ September 2018 – February 2019
 Front-end development courses from The Rolling Scopes community
 
 ---
-
 2017-2018
 
 Streamline English Courses (Pre-Intermediate Level)
@@ -75,48 +70,48 @@ Streamline English Courses (Pre-Intermediate Level)
 
 * Professional skills
 
->C# Novice: basic theoretical knowledge
+>**C#** Novice: basic theoretical knowledge
 
->C++ Medium: good theoretical knowledge, practical skills
+>**C++** Medium: good theoretical knowledge, practical skills
 
->JavaScript Medium: good theoretical knowledge, practical skills
+>**JavaScript** Medium: good theoretical knowledge, practical skills
 
->Java Novice: basic theoretical knowledge
+>**Java** Novice: basic theoretical knowledge
 
->HTML Medium: good theoretical knowledge, practical skills
+>**HTML** Medium: good theoretical knowledge, practical skills
 
->XML/XSL/XSLT Medium: good theoretical knowledge, practical skills
+>**XML/XSL/XSLT** Medium: good theoretical knowledge, practical skills
 
->CSS/SASS Medium: good theoretical knowledge, practical skills
+>**CSS/SASS** Medium: good theoretical knowledge, practical skills
 
->PHP Medium: good theoretical knowledge, practical skills
+>**PHP** Medium: good theoretical knowledge, practical skills
 
->SQL Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>**SQL** Advanced: excellent theoretical knowledge, practical skills, experience more than 1
 
->AJAX/COMET Medium: good theoretical knowledge, practical skills
+>**AJAX/COMET** Medium: good theoretical knowledge, practical skills
 
->Wordpress Novice: basic theoretical knowledge
+>**Wordpress** Novice: basic theoretical knowledge
 
->Gatsby Medium: good theoretical knowledge, practical skills
+>**Gatsby** Medium: good theoretical knowledge, practical skills
 
 * Database
 
->MySQL Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>**MySQL** Advanced: excellent theoretical knowledge, practical skills, experience more than 1
 
->Oracle Medium: good theoretical knowledge, practical skills
+>**Oracle** Medium: good theoretical knowledge, practical skills
 
 * Foreign language 
 
->English A2
+>**English** A2
 
 * Specialized programmes
 
->БЭСТ-5..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
->Monitor CRM..Продвинутый: отличные теоретические знания, практические навыки, опыт работы более 1
->1С 7.7..Новичок: базовые теоретические знания
->Terrasoft CRM..Новичок: базовые теоретические знания
->Adobe Photoshop CS 6..Средний: хорошие теоретические знания, практические навыки
->Corel Draw..Средний: хорошие теоретические знания, практические навыки
+>**БЭСТ-5** Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>**Monitor CRM** Продвинутый: отличные теоретические знания, практические навыки, опыт работы более 1
+>**1С 7.7** Новичок: базовые теоретические знания
+>**Terrasoft CRM** Новичок: базовые теоретические знания
+>**Adobe Photoshop CS 6** Средний: хорошие теоретические знания, практические навыки
+>**Corel Draw** Средний: хорошие теоретические знания, практические навыки
 
 6. PERSONAL SKILLS <a name="persskills"></a>
 
@@ -136,7 +131,8 @@ Streamline English Courses (Pre-Intermediate Level)
 
 [GithabProfile]( https://github.com/marry705 "GithabProfile")
 
+* [JavaScriptProjectExample] ( https://github.com/marry705/smart-calculator "JavaScriptProject Smart-calculator")
+* [JavaScriptProjectExample] ( https://github.com/marry705/love-triangle "JavaScriptProject Love triangle")
+* [JavaScriptProjectExample] (https://github.com/marry705/you-are-awesome "JavaScriptProject You are awesome")
+* [PageCreationExample] ( https://marry705.github.io/Ghost-website-/ "PageCreationExample")
 * [YouTubeAPI]( https://marry705.github.io/YouTubeAPI/ "YouTubeAPI")
-* [] ()
-* [] ()
-* [] ()
