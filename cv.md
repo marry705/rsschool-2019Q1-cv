@@ -15,7 +15,7 @@ Mary Chilo
 
 I am a beginner programmer seeking a full-time position where I can apply my skills and knowledge for continuous improvement.
 
-2. [PERSONAL INFORMATION](#personinf)
+2. PERSONAL INFORMATION <a name="personinf"></a>
 
 **Email** <marry705chilo@gmail.com>
 
@@ -35,7 +35,7 @@ I am a beginner programmer seeking a full-time position where I can apply my ski
 
 **Address** Belarus, Minsk
 
-3. [EDUCATION AND QUALIFICATION](#education)
+3. EDUCATION AND QUALIFICATION <a name="education"></a>
 
 September 2012 – June 2017 
 
@@ -52,26 +52,59 @@ Front-end development courses from The Rolling Scopes community
 
 Streamline English Courses (Pre-Intermediate Level)
 
+4. WORK EXPERIENCE <a name="workexp"></a>
 
-4. [WORK EXPERIENCE](#workexp)
-
-|**Internship** Bank Moscow-Minsk|2014-2015
+|**Internship** Bank Moscow-Minsk|2014-2015|
 
 * development of business processes in the program Terrasoft CRM;
-* analysis of the effectiveness of business processes for working with clients;
+* impact analysis of business processes for working with clients;
 
-|**Internship** Alfa Bank|2015-2016
-* writing a plan for the implementation and maintenance of software for the needs of the bank;
-* assessment of the payback of software implementation for the needs of the bank;
+|**Internship** Alfa Bank|2015-2016|
 
-|**Full time job** OOO " ИнтеллектСервис "|2017-p.t.
+* making a plan for the implementation and software maintenance for the needs of the bank;
+* calculate the value of software implementation for the needs of the bank;
+
+|**Full time job** OOO " ИнтеллектСервис "|2017-p.t.|
 
 * implementation of an accounting program, which includes placing the program on the client's server and setting it up;
 * development of functional data export program;
 * development of user reports;
 * solving problems, arising from customers in the process of operating programs;
 
-5. [PROFESSIONAL SKILLS](#profskills)
+5. PROFESSIONAL SKILLS <a name="profskills"></a>
+
+* Professional skills
+
+>C#	Novice: basic theoretical knowledge
+>C++	Medium: good theoretical knowledge, practical skills
+>JavaScript	Medium: good theoretical knowledge, practical skills
+>Java	Novice: basic theoretical knowledge
+>HTML	Medium: good theoretical knowledge, practical skills
+>XML/XSL/XSLT	Medium: good theoretical knowledge, practical skills
+>CSS, SASS	Medium: good theoretical knowledge, practical skills
+>PHP	Medium: good theoretical knowledge, practical skills
+>SQL	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>AJAX и COMET Medium: good theoretical knowledge, practical skills
+>Wordpress Novice: basic theoretical knowledge
+>Gatsby Medium: good theoretical knowledge, practical skills
+
+* Database
+
+>MySQL	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>Oracle	Medium: good theoretical knowledge, practical skills
+
+* Foreign language 
+
+>English A2
+
+* Specialized programmes
+
+>БЭСТ-5	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>Monitor CRM	Продвинутый: отличные теоретические знания, практические навыки, опыт работы более 1
+>1С 7.7	Новичок: базовые теоретические знания
+>Terrasoft CRM	Новичок: базовые теоретические знания
+>Adobe Photoshop CS 6	Средний: хорошие теоретические знания, практические навыки
+>Corel Draw	Средний: хорошие теоретические знания, практические навыки
 
 6. PERSONAL SKILLS <a name="persskills"></a>
 
@@ -88,3 +121,8 @@ Streamline English Courses (Pre-Intermediate Level)
 * Self-motivated
 
 7. PORTFOLIO <a name="portfol"></a>
+
+* [] ()
+* [] ()
+* [] ()
+* [] ()
