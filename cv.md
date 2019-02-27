@@ -3,12 +3,12 @@ Mary Chilo
 
 ![Mary Chilo](/1.jpg)
 
-[ABOUT](#about)..|..
-[PERSONAL INFORMATION](#personinf)..|..
-[EDUCATION AND QUALIFICATION](#education)..|..
-[WORK EXPERIENCE](#workexp)..|..
-[PROFESSIONAL SKILLS](#profskills)..|..
-[PERSONAL SKILLS](#persskills)..|..
+[ABOUT](#about) |
+[PERSONAL INFORMATION](#personinf) | 
+[EDUCATION AND QUALIFICATION](#education) | 
+[WORK EXPERIENCE](#workexp) | 
+[PROFESSIONAL SKILLS](#profskills) | 
+[PERSONAL SKILLS](#persskills) | 
 [PORTFOLIO](#portfol)
 
 1. ABOUT <a name="about"></a>
@@ -75,39 +75,39 @@ Streamline English Courses (Pre-Intermediate Level)
 
 * Professional skills
 
->C#..Novice: basic theoretical knowledge
+>C# Novice: basic theoretical knowledge
 
->C++..Medium: good theoretical knowledge, practical skills
+>C++ Medium: good theoretical knowledge, practical skills
 
->JavaScript..Medium: good theoretical knowledge, practical skills
+>JavaScript Medium: good theoretical knowledge, practical skills
 
->Java..Novice: basic theoretical knowledge
+>Java Novice: basic theoretical knowledge
 
->HTML..Medium: good theoretical knowledge, practical skills
+>HTML Medium: good theoretical knowledge, practical skills
 
->XML/XSL/XSLT..Medium: good theoretical knowledge, practical skills
+>XML/XSL/XSLT Medium: good theoretical knowledge, practical skills
 
->CSS, SASS..Medium: good theoretical knowledge, practical skills
+>CSS/SASS Medium: good theoretical knowledge, practical skills
 
->PHP..Medium: good theoretical knowledge, practical skills
+>PHP Medium: good theoretical knowledge, practical skills
 
->SQL..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>SQL Advanced: excellent theoretical knowledge, practical skills, experience more than 1
 
->AJAX и COMET..Medium: good theoretical knowledge, practical skills
+>AJAX/COMET Medium: good theoretical knowledge, practical skills
 
->Wordpress..Novice: basic theoretical knowledge
+>Wordpress Novice: basic theoretical knowledge
 
->Gatsby..Medium: good theoretical knowledge, practical skills
+>Gatsby Medium: good theoretical knowledge, practical skills
 
 * Database
 
->MySQL..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>MySQL Advanced: excellent theoretical knowledge, practical skills, experience more than 1
 
->Oracle..Medium: good theoretical knowledge, practical skills
+>Oracle Medium: good theoretical knowledge, practical skills
 
 * Foreign language 
 
->English..A2
+>English A2
 
 * Specialized programmes
 
@@ -134,9 +134,9 @@ Streamline English Courses (Pre-Intermediate Level)
 
 7. PORTFOLIO <a name="portfol"></a>
 
- [Githab profile] (https://github.com/marry705)
+[GithabProfile]( https://github.com/marry705 "GithabProfile")
 
-* [YouTubeAPI] (https://marry705.github.io/YouTubeAPI/)
+* [YouTubeAPI]( https://marry705.github.io/YouTubeAPI/ "YouTubeAPI")
 * [] ()
 * [] ()
 * [] ()
