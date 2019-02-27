@@ -131,8 +131,8 @@ Streamline English Courses (Pre-Intermediate Level)
 
 [GithabProfile]( https://github.com/marry705 "GithabProfile")
 
-* [JavaScriptProjectExample] ( https://github.com/marry705/smart-calculator "JavaScriptProject Smart-calculator")
-* [JavaScriptProjectExample] ( https://github.com/marry705/love-triangle "JavaScriptProject Love triangle")
-* [JavaScriptProjectExample] (https://github.com/marry705/you-are-awesome "JavaScriptProject You are awesome")
-* [PageCreationExample] ( https://marry705.github.io/Ghost-website-/ "PageCreationExample")
+* [JavaScriptProjectExample]( https://github.com/marry705/smart-calculator "JavaScriptProject Smart-calculator")
+* [JavaScriptProjectExample]( https://github.com/marry705/love-triangle "JavaScriptProject Love triangle")
+* [JavaScriptProjectExample](https://github.com/marry705/you-are-awesome "JavaScriptProject You are awesome")
+* [PageCreationExample]( https://marry705.github.io/Ghost-website-/ "PageCreationExample")
 * [YouTubeAPI]( https://marry705.github.io/YouTubeAPI/ "YouTubeAPI")
