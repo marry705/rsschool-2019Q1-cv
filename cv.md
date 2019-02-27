@@ -3,12 +3,12 @@ Mary Chilo
 
 ![Mary Chilo](/1.jpg)
 
-[ABOUT](#about)|
-[PERSONAL INFORMATION](#personinf)|
-[EDUCATION AND QUALIFICATION](#education)|
-[WORK EXPERIENCE](#workexp)|
-[PROFESSIONAL SKILLS](#profskills)|
-[PERSONAL SKILLS](#persskills)|
+[ABOUT](#about)..|..
+[PERSONAL INFORMATION](#personinf)..|..
+[EDUCATION AND QUALIFICATION](#education)..|..
+[WORK EXPERIENCE](#workexp)..|..
+[PROFESSIONAL SKILLS](#profskills)..|..
+[PERSONAL SKILLS](#persskills)..|..
 [PORTFOLIO](#portfol)
 
 1. ABOUT <a name="about"></a>
@@ -75,36 +75,48 @@ Streamline English Courses (Pre-Intermediate Level)
 
 * Professional skills
 
->C#	Novice: basic theoretical knowledge
->C++	Medium: good theoretical knowledge, practical skills
->JavaScript	Medium: good theoretical knowledge, practical skills
->Java	Novice: basic theoretical knowledge
->HTML	Medium: good theoretical knowledge, practical skills
->XML/XSL/XSLT	Medium: good theoretical knowledge, practical skills
->CSS, SASS	Medium: good theoretical knowledge, practical skills
->PHP	Medium: good theoretical knowledge, practical skills
->SQL	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
->AJAX и COMET Medium: good theoretical knowledge, practical skills
->Wordpress Novice: basic theoretical knowledge
->Gatsby Medium: good theoretical knowledge, practical skills
+>C#..Novice: basic theoretical knowledge
+
+>C++..Medium: good theoretical knowledge, practical skills
+
+>JavaScript..Medium: good theoretical knowledge, practical skills
+
+>Java..Novice: basic theoretical knowledge
+
+>HTML..Medium: good theoretical knowledge, practical skills
+
+>XML/XSL/XSLT..Medium: good theoretical knowledge, practical skills
+
+>CSS, SASS..Medium: good theoretical knowledge, practical skills
+
+>PHP..Medium: good theoretical knowledge, practical skills
+
+>SQL..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+
+>AJAX и COMET..Medium: good theoretical knowledge, practical skills
+
+>Wordpress..Novice: basic theoretical knowledge
+
+>Gatsby..Medium: good theoretical knowledge, practical skills
 
 * Database
 
->MySQL	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
->Oracle	Medium: good theoretical knowledge, practical skills
+>MySQL..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+
+>Oracle..Medium: good theoretical knowledge, practical skills
 
 * Foreign language 
 
->English A2
+>English..A2
 
 * Specialized programmes
 
->БЭСТ-5	Advanced: excellent theoretical knowledge, practical skills, experience more than 1
->Monitor CRM	Продвинутый: отличные теоретические знания, практические навыки, опыт работы более 1
->1С 7.7	Новичок: базовые теоретические знания
->Terrasoft CRM	Новичок: базовые теоретические знания
->Adobe Photoshop CS 6	Средний: хорошие теоретические знания, практические навыки
->Corel Draw	Средний: хорошие теоретические знания, практические навыки
+>БЭСТ-5..Advanced: excellent theoretical knowledge, practical skills, experience more than 1
+>Monitor CRM..Продвинутый: отличные теоретические знания, практические навыки, опыт работы более 1
+>1С 7.7..Новичок: базовые теоретические знания
+>Terrasoft CRM..Новичок: базовые теоретические знания
+>Adobe Photoshop CS 6..Средний: хорошие теоретические знания, практические навыки
+>Corel Draw..Средний: хорошие теоретические знания, практические навыки
 
 6. PERSONAL SKILLS <a name="persskills"></a>
 
@@ -122,7 +134,9 @@ Streamline English Courses (Pre-Intermediate Level)
 
 7. PORTFOLIO <a name="portfol"></a>
 
-* [] ()
+ [Githab profile] (https://github.com/marry705)
+
+* [YouTubeAPI] (https://marry705.github.io/YouTubeAPI/)
 * [] ()
 * [] ()
 * [] ()
