@@ -3,11 +3,14 @@ Mary Chilo
 
 ![Mary Chilo](/1.jpg)
 
-1. [ABOUT](#about)
+[ABOUT](#about)
+[PERSONAL INFORMATION](#personinf)
+
+1. ABOUT(#about)
 
 I am a beginner programmer seeking a full-time position where I can apply my skills and knowledge for continuous improvement.
 
-2. [PERSONAL INFORMATION](#personinf)
+2. PERSONAL INFORMATION(#personinf)
 
 **Email** <marry705chilo@gmail.com>
 
@@ -47,15 +50,21 @@ Streamline English Courses (Pre-Intermediate Level)
 
 4. [WORK EXPERIENCE](#workexp)
 
-|**Internship** Bank Moscow-Minsk|2014-2015|
-*
-*
-|**Internship** Alfa Bank|2015-2016|
-*
-*
-|**Full time job** OOO " ИнтеллектСервис "|2017-p.t.|
-*
-*
+|**Internship** Bank Moscow-Minsk|2014-2015
+
+* development of business processes in the program Terrasoft CRM;
+* analysis of the effectiveness of business processes for working with clients;
+
+|**Internship** Alfa Bank|2015-2016
+* writing a plan for the implementation and maintenance of software for the needs of the bank;
+* assessment of the payback of software implementation for the needs of the bank;
+
+|**Full time job** OOO " ИнтеллектСервис "|2017-p.t.
+
+* implementation of an accounting program, which includes placing the program on the client's server and setting it up;
+* development of functional data export program;
+* development of user reports;
+* solving problems, arising from customers in the process of operating programs;
 
 5. [PROFESSIONAL SKILLS](#profskills)
 
