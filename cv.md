@@ -1,7 +1,7 @@
 Mary Chilo
 ==========================
 
-![Mary Chilo](/DSC06714.jpg)
+![Mary Chilo](/1.jpg)
 
 1. [ABOUT](#about)
 
@@ -27,22 +27,35 @@ I am a beginner programmer seeking a full-time position where I can apply my ski
 
 **Address** Belarus, Minsk
 
+3. [EDUCATION AND QUALIFICATION](#education)
+
+September 2012 – June 2017 
+
+Belarusian State Economic University, Minsk. Department of Management. Major: Economic Informatics
+
+---
+September 2018 – February 2019
+
+Front-end development courses from The Rolling Scopes community
+
 ---
 
-3. [EDUCATION](#education)
+2017-2018
 
-September 2012 – June 2017 Belarusian State Economic University, Minsk
+Streamline English Courses (Pre-Intermediate Level)
 
-Department of Management
-
-Major: Economic Informatics
 
 4. [WORK EXPERIENCE](#workexp)
 
-| --------------- |:---------------------:| -------:|
-|**Internship**   |Bank Moscow-Minsk      |2014-2016|
-|**Full time job**|OOO " ИнтеллектСервис "|2017-p.t.|
-----
+|**Internship** Bank Moscow-Minsk|2014-2015|
+*
+*
+|**Internship** Alfa Bank|2015-2016|
+*
+*
+|**Full time job** OOO " ИнтеллектСервис "|2017-p.t.|
+*
+*
 
 5. [PROFESSIONAL SKILLS](#profskills)
 
