@@ -11,7 +11,7 @@ Mary Chilo
 [PERSONAL SKILLS](#persskills)|
 [PORTFOLIO](#portfol)
 
-1. [ABOUT](#about)
+1. ABOUT <a name="about"></a>
 
 I am a beginner programmer seeking a full-time position where I can apply my skills and knowledge for continuous improvement.
 
@@ -73,7 +73,7 @@ Streamline English Courses (Pre-Intermediate Level)
 
 5. [PROFESSIONAL SKILLS](#profskills)
 
-6. [PERSONAL SKILLS](#persskills)
+6. PERSONAL SKILLS <a name="persskills"></a>
 
 * Analytical thinking
 * Hardworking
@@ -87,4 +87,4 @@ Streamline English Courses (Pre-Intermediate Level)
 * Multitasking
 * Self-motivated
 
-7. [PORTFOLIO](#portfol)
+7. PORTFOLIO <a name="portfol"></a>
