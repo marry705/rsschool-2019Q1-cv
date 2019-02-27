@@ -3,14 +3,19 @@ Mary Chilo
 
 ![Mary Chilo](/1.jpg)
 
-[ABOUT](#about)
-[PERSONAL INFORMATION](#personinf)
+[ABOUT](#about)|
+[PERSONAL INFORMATION](#personinf)|
+[EDUCATION AND QUALIFICATION](#education)|
+[WORK EXPERIENCE](#workexp)|
+[PROFESSIONAL SKILLS](#profskills)|
+[PERSONAL SKILLS](#persskills)|
+[PORTFOLIO](#portfol)
 
-1. ABOUT(#about)
+1. [ABOUT](#about)
 
 I am a beginner programmer seeking a full-time position where I can apply my skills and knowledge for continuous improvement.
 
-2. PERSONAL INFORMATION(#personinf)
+2. [PERSONAL INFORMATION](#personinf)
 
 **Email** <marry705chilo@gmail.com>
 
