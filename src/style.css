@@ -9,4 +9,11 @@ body{
     color: #000000;
     font-size: 16pt;
 }
-
+img{
+    width: 15%;
+    border-radius: 300px;
+    -webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
+    -ms-border-radius: 300px;
+    -o-border-radius: 300px;
+}
