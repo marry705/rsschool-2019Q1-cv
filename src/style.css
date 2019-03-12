@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: #F0FFFF;
+    font-family: 'Inconsolata', monospace, Arial;
+    color: #000000;
+    font-size: 16pt;
+}
